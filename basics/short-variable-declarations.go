@@ -4,7 +4,7 @@
 // Fora de uma função cada estrutura começa com uma palavra-chave
 // (var, func, e assim por diante) e não é possível usar o :=.
 
-package main
+package gotour
 
 import "fmt"
 

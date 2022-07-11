@@ -4,7 +4,7 @@
 // import "math"
 // Mas é um bom estilo usar a declaração de importação consignada.
 
-package main
+package gotour
 
 import (
 	"fmt"
