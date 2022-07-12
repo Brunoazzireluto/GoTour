@@ -19,5 +19,3 @@ func main() {
 		fmt.Println("Too far away.")
 	}
 }
-
-// stop in https://go-tour-br.appspot.com/flowcontrol/11
